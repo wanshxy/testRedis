@@ -1,1 +1,1 @@
-# testRedis
+# this is a project about test my Redis in linux
